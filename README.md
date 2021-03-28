@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Page : http://luckyrat.fool.jp/
+My Page : <!-- http://luckyrat.fool.jp/ -->
 <!--
 **luckylat/luckylat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
