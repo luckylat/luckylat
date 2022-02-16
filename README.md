@@ -5,7 +5,7 @@ My Page : <!-- https://fool-luckyrat.ssl-lolipop.jp/ -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=luckylat&count_private=true&show_icons=true&theme=graywhite">
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=CleyL)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=CleyL&theme=alduin)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 
 <!--
