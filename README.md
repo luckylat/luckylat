@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My Page : <!-- https://fool-luckyrat.ssl-lolipop.jp/ -->
+I'm luckylat, competitive-programmer.
+
+temporary portfolio: https://github.com/luckylat/MDportfolio
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=luckylat&count_private=true&show_icons=true&theme=graywhite">
