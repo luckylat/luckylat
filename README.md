@@ -4,11 +4,6 @@ I'm luckylat, competitive-programmer.
 
 temporary portfolio: https://github.com/luckylat/MDportfolio
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=luckylat&count_private=true&show_icons=true&theme=graywhite">
-
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=CleyL&rank=SSS,SS,S)](https://github.com/KATO-Hiro/AtCoderTrophies)
-
 <!--
 **luckylat/luckylat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
