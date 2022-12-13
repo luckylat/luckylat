@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm luckylat, competitive-programmer.
+I'm luckylat, a competitive-programmer.
 
 temporary portfolio: https://github.com/luckylat/MDportfolio
 
