@@ -1,8 +1,12 @@
-### Hi there 👋
+### whoami
 
-I'm CleyL(luckylat), a competitive-programmer.
+I'm CleyL(luckylat), a competitive-programmer.  
+temporary portfolio: https://github.com/luckylat/MDportfolio (I want to time to make this and my product...)
 
-temporary portfolio: https://github.com/luckylat/MDportfolio
+### Some information
+**Natural Language**   
+- JP(Native)  
+- EN(TOEIC:530, so-so...)  
 
 <!--
 **luckylat/luckylat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
