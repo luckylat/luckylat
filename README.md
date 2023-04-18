@@ -1,7 +1,7 @@
 ### whoami
 
 I'm CleyL(luckylat), a competitive-programmer.  
-temporary portfolio: https://github.com/luckylat/MDportfolio (need time to make portfolio website and other my products...)
+temporary portfolio: https://github.com/luckylat/MDportfolio (need time to make portfolio website and other my products...)  
 I prefer to use `ze/zem`, but the words feel oppressive, so `they/them` or `he/him` would be fine.
 
 ### Some information
