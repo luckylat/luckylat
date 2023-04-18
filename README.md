@@ -1,7 +1,7 @@
 ### whoami
 
 I'm CleyL(luckylat), a competitive-programmer.  
-temporary portfolio: https://github.com/luckylat/MDportfolio (need time to make this and other my product...)
+temporary portfolio: https://github.com/luckylat/MDportfolio (need time to make this and other my products...)
 
 ### Some information
 **Natural Language**   
