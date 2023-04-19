@@ -2,7 +2,7 @@
 
 I'm CleyL(luckylat), a competitive-programmer.  
 temporary portfolio: https://github.com/luckylat/MDportfolio (need time to make portfolio website and other my products...)  
-I prefer to use `ze/zem` *on The Internet*, but the words feel oppressive, so `they/them` or `he/him` would be fine.
+I prefer to use `them/them` *on The Internet*, but the words feel oppressive, so `he/him` would be fine.
 
 ### Some information
 **Natural Language**   
