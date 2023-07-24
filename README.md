@@ -7,7 +7,7 @@ I prefer to use `they/them` *on The Internet*, but the words feel oppressive, so
 ### Some information
 **Natural Language**   
 - JP(Native)  
-- EN(TOEIC:650, so-so...)  
+- EN(TOEIC:650)  
 
 <!--
 **luckylat/luckylat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
