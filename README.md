@@ -1,6 +1,6 @@
 ### whoami
 
-I'm CleyL(luckylat), a competitive-programmer.  
+I'm CleyL(luckylat), a kyogi-programmer(competitive-programmer).  
 temporary portfolio: https://github.com/luckylat/MDportfolio (need time to make portfolio website and other my products...)  
 I prefer to use `they/them` *on The Internet*, but the words feel oppressive, so `he/him` would be fine.
 
