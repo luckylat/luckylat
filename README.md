@@ -1,8 +1,5 @@
 ### whoami
-
-I'm CleyL(luckylat), a kyōgi-programmer(competitive-programmer).  
-temporary portfolio: https://github.com/luckylat/MDportfolio (need time to make portfolio website and other my products...)  
-I prefer to use `they/them` *on The Internet*, but the words feel oppressive, so `he/him` would be fine.
+temporary portfolio: https://github.com/luckylat/MDportfolio
 
 ### Some information
 **Natural Language**   
