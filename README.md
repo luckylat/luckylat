@@ -1,5 +1,5 @@
 ### whoami
-Hello I am CleyL / sak (luckyr/lat will not use as my username for some reasons). <br>
+Hello I am CleyL / sak. <br>
 **CleyL**: Inside of the context of Competitive Programming Mainly <br>
 **sak**: Outside of the context of Competitive Programming (to avoid confusing) <br>
 
