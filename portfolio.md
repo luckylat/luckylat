@@ -40,8 +40,7 @@ English (TOEIC: 650)
 ### [CP-template](https://github.com/luckylat/cp-template)
 oj-bundleを利用してコンテストのファイルを配置するコマンドです
 
-### CP-Helper
-[Repository](https://github.com/luckylat/cp-helper-front)  
+### [CP-Helper](https://github.com/luckylat/cp-helper-front)
 現在稼働停止中です。  
 AtCoder, Codeforces, yukicoderで今日新規でACを出しているかを確認できるサイトです。  
 将来的にはどれだけストリーク(新規ACを行なっている日数)が繋がれているかなどを直感的に理解できる形にする予定です。  
